@@ -13,3 +13,8 @@ Criando migrations:
 Efetuando as migrations:
 
 ` dotnet ef database update `
+
+
+**Rodando a aplicação**
+
+` dotnet watch run `
